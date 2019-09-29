@@ -1,0 +1,8 @@
+{
+    "name": "templade_faucet",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "almerindo junior",
+    "contributors": [],
+    "dependencies": {}
+}
